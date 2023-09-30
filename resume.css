@@ -1,0 +1,9 @@
+.navbar {
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.nav-link {
+    font-family: "Lucida Console", monospace;
+    font-size: 1rem;
+}
