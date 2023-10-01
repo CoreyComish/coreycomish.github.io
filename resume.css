@@ -18,13 +18,11 @@ p, li, a {
 
 #about_pic {
     float: left; 
-    width: 50%;
 }
 
 #about_heading {
     margin-left: 60%; 
     width: 100%; 
-    text-align: left;
 }
 
 #about_me, #about_info, #about_resume {
