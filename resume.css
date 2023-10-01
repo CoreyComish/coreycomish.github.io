@@ -44,11 +44,6 @@ p, li, a {
     font-size: 1.25rem;
 }
 
-.navbar {
-    border-bottom-left-radius: 45px;
-    border-bottom-right-radius: 45px;
-}
-
 .nav-link {
     font-family: "Verdana", sans-serif;
     font-size: 1rem;
