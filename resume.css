@@ -1,7 +1,7 @@
 body {
     font-family: 'Verdana', serif;
     padding-top: 55px;
-    color: #687480;
+    color: #000000;
   }
   
   @media (min-width: 992px) {
@@ -15,7 +15,7 @@ body {
     font-family: 'Verdana', serif;
     font-weight: 700;
     text-transform: uppercase;
-    color: #2e3439;
+    color: #000000;
   }
   
   h1 {
@@ -113,17 +113,17 @@ body {
   }
   
   .bg-primary {
-    background-color: #242c74!important;
+    background-color: #445f3a !important;
   }
   
   .text-primary {
-    color: #242c74 !important;
+    color: #445f3a !important;
   }
   
   a {
-    color: #242c74;
+    color: #445f3a;
   }
   
   a:hover, a:focus, a:active {
-    color: #242c74;
+    color: #445f3a;
   }
