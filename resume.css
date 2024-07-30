@@ -34,7 +34,7 @@ body {
   }
 
   .underline {
-    text-decoration: underline
+    text-decoration: underline;
   }
   
   #sideNav .navbar-nav .nav-item .nav-link {
